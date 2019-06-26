@@ -5,7 +5,7 @@
 | ---------------------- | ---------------------- | ---------------------- |
 
 
-This repo is meant to reproduce the restuls of [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf). There are some changes needed to be modified to run the codes by your own.
+This repo is meant to reproduce the restuls of [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf). There are some changes needed to be modified to run the codes by your own. Thanks to Facebook AI so that I can fork it (https://github.com/facebookresearch/instpred/tree/master/models) to reproduce our own results.
 
 ## Installation
 
