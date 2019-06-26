@@ -3,12 +3,7 @@
 
 | ![](examples/seq1.gif) | ![](examples/seq2.gif) | ![](examples/seq3.gif) |
 | ---------------------- | ---------------------- | ---------------------- |
-
-
-This repo contains the code for reproducing the results of our [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf).
-
-
-Check out more qualitative results on our [project website](http://thoth.inrialpes.fr/people/pluc/instpred2018) !
+This repo is meant to reproduce the restuls of [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf). 
 
 ## Installation
 
@@ -16,7 +11,7 @@ See [SETUP.md](SETUP.md).
 
 ## Inference
 
-We provide the models which obtained the reported results in [models/F2F](models/F2F). We recall their performance here:
+The models which obtained the reported results in [models/F2F](models/F2F). We recall their performance here:
 
 <table>
   <tr>
