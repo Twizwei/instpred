@@ -5,7 +5,7 @@
 | ---------------------- | ---------------------- | ---------------------- |
 
 
-This repo is meant to reproduce the restuls of [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf). 
+This repo is meant to reproduce the restuls of [ECCV 2018 paper](https://arxiv.org/pdf/1803.11496.pdf). There are some changes needed to be modified to run the codes by your own.
 
 ## Installation
 
